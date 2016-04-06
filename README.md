@@ -4,9 +4,11 @@ This is a list of ambiguous symbols used in JavaScript that may be confusing to 
 
 ## The list
 
-| Symbol | Description    |
-| ------ | -------------- |
-| `=>`   | Arrow function |
+| Symbol | Description    | Colloquial verbiage |
+| ------ | -------------- | ------------------- |
+| `=>`   | Arrow function | "Hash rocket" |
+| `===`   | Strict equality | "Equal" |
+| `==`   | Loose equality | No one calls it anything. Don't use this. |
 
 ## Thanks
 
