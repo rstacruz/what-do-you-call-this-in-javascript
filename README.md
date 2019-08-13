@@ -8,7 +8,10 @@ This is a list of ambiguous symbols used in JavaScript that may be confusing to 
 | ------ | -------------- | ------------------- |
 | `=>`   | Arrow function | _"Hash rocket", "fat arrow"_ |
 | `===`   | Strict equality | _"Threequal"_ |
-| `==`   | Loose equality | No one calls it anything. Don't use this. |
+| `==`   | Loose equality | |
+| `{ ...object }` | Object spread literal | _"Splat"_ |
+| `function fn(...args)` | Rest parameters | _"Stargs"_ |
+| `const { a, b } = ...` | Destructuring assignment | |
 
 ## Thanks
 
