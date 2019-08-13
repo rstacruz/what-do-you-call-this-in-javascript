@@ -10,8 +10,8 @@ This is a list of ambiguous symbols used in JavaScript that may be confusing to 
 | `===`   | Strict equality | _"Threequal"_ |
 | `==`   | Loose equality | |
 | `{ ...object }` | Object spread literal | _"Splat"_ |
-| `function fn(...args)` | Rest parameters | _"Stargs"_ |
-| `const { a, b } = ...` | Destructuring assignment | |
+| `function fn(...args)` | [Rest parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters) | _"Stargs"_ |
+| `const { a, b } = ...` | [Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment) | |
 
 ## Thanks
 
