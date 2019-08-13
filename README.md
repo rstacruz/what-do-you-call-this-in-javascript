@@ -7,7 +7,7 @@ This is a list of ambiguous symbols used in JavaScript that may be confusing to 
 | Symbol | Description    | Colloquial verbiage |
 | ------ | -------------- | ------------------- |
 | `=>`   | Arrow function | _"Hash rocket", "fat arrow"_ |
-| `===`   | Strict equality | _"Equal"_ |
+| `===`   | Strict equality | _"Threequal"_ |
 | `==`   | Loose equality | No one calls it anything. Don't use this. |
 
 ## Thanks
