@@ -9,7 +9,7 @@ This is a list of ambiguous symbols used in JavaScript that may be confusing to 
 | `=>`   | Arrow function | _"Hash rocket", "fat arrow"_ |
 | `===`   | Strict equality | _"Threequal"_ |
 | `==`   | Loose equality | |
-| `{ ...object }` | Object spread literal | _"Splat"_ |
+| `{ ...object }` | [Object spread operator](https://redux.js.org/recipes/using-object-spread-operator) | _"Splat"_ |
 | `function fn(...args)` | [Rest parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters) | _"Stargs"_ |
 | `const { a, b } = ...` | [Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment) | |
 | `{ [name]: "..." }` | [Computed property names](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer#Computed_property_names) | |
