@@ -23,6 +23,7 @@ Some features that may not be available in mainstream JavaScript yet.
 | `??` | [Nullish coalescing](https://github.com/tc39/proposal-nullish-coalescing) | |
 | `?.` | [Optional chaining](https://github.com/tc39/proposal-optional-chaining) | _"Safe navigation operator"_ (Groovy), _"Elvis operator"_, _"Lonely operator"_ (Ruby) |
 | `@foo()` | [Class decorators](https://github.com/tc39/proposal-decorators) | | 
+| `#method` | [Private fields](https://github.com/tc39/proposal-private-fields-in-in) | |
 | `#{...}` | [Record](https://github.com/tc39/proposal-record-tuple) (immutable) | |
 | `#[...]` | [Tuple](https://github.com/tc39/proposal-record-tuple) (immutable) ||
 
